@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&animation=fadeIn&height=300&section=header&text=Hi%20Their&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&animation=fadeIn&height=300&section=header&text=Hi%20Their&fontSize=50
+          &rotate=40" />
 <!--
 **Amharc-Hash/Amharc-Hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
